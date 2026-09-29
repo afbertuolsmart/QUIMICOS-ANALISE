@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-22T01:33:53.167Z",
+  "updatedAt": "2026-09-29T09:44:32.274Z",
   "counts": {
-    "estoquequimicos": 204,
+    "estoquequimicos": 208,
     "estoquequimicosparaguai": 22,
-    "estoquequimicoseadi": 6,
-    "comprasquimicos": 27,
+    "estoquequimicoseadi": 4,
+    "comprasquimicos": 24,
     "compraquimicosparaguai": 17,
     "consumoquimicos": 13228
   }
